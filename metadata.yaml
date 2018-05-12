@@ -1,0 +1,31 @@
+_repo: The-Fabric-of-CivilizationA-Short-Survey-of-the-Cotton-Industry-in-the-United-States_29048
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guaranty Trust Company of New York
+    alias: York, Guaranty Trust Company of New
+    gutenberg_agent_id: '33660'
+    url: http://www.gutenberg.org/2009/agents/33660
+description: ''
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+gutenberg_issued: '2009-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29048'
+  lccn: '19019364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cotton manufacture -- United States'
+- !lcc 'HD'
+title: 'The Fabric of Civilization
+
+  A Short Survey of the Cotton Industry in the United States'
+url: http://www.gutenberg.org/ebooks/29048
