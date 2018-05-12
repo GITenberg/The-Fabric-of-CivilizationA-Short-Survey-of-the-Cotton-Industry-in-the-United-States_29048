@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33660'
     url: http://www.gutenberg.org/2009/agents/33660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29048#The-Fabric-of-CivilizationA-Short-Survey-of-the-Cotton-Industry-in-the-United-States
 gutenberg_bookshelf:
 - Manufacturing
 - Technology
